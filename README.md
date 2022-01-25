@@ -1,16 +1,24 @@
-### Hi there 👋
+<br>
 
-<!--
-**Kishore-070/Kishore-070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hello](https://user-images.githubusercontent.com/98384128/150978993-bae2b6b5-d3bf-4a31-ba04-d0fc2af1fdea.gif)
 
-Here are some ideas to get you started:
+<br>
+<br>
+<h1 align="center"> Hey there👋 Kishore here 🤞 </h1>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+![Myself](https://user-images.githubusercontent.com/98384128/150978939-3d112e9a-ec44-4851-a4e8-999189e332e8.jpeg)
+
+- 🔭 A Budding Computer Science Engineer
+- 🌱 I’m currently learning Web development
+- 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-070&show_icons=true&theme=jolly)](https://github.com/Kishore-070/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-070&layout=compact)](https://github.com/Kishore-070/github-readme-stats)
