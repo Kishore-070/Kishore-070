@@ -25,4 +25,7 @@
 
 ## Find me on 🔽 :
 
-<a href="https://github.com/Kishore-070"><img src="github.png" alt="hi"></a>
+<a href="https://github.com/Kishore-070"><img src="https://user-images.githubusercontent.com/98384128/150993683-361ec039-0b0c-4695-aa06-ae61c63e6758.png" alt="Github"></a>
+<a href="https://www.instagram.com/kish070/"><img src="https://user-images.githubusercontent.com/98384128/150994400-8bd04608-da29-4513-95d5-436bb816f413.jpg" alt="instagram"></a>
+<a href="https://discord.com/channels/@me"><img src="https://user-images.githubusercontent.com/98384128/150995466-7f0c2417-6ed0-4485-a994-c6d2c7f277c1.png" alt="Discord"></a>
+
